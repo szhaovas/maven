@@ -1,0 +1,9 @@
+edu/vassar/duck/Duck.class
+edu/vassar/duck/MallardDuck.class
+edu/vassar/duck/RedheadDuck.class
+edu/vassar/duck/BasicDuck.class
+edu/vassar/duck/ModelDuck.class
+edu/vassar/duck/RubberDuck.class
+edu/vassar/duck/WrongDuckError.class
+edu/vassar/duck/DecoyDuck.class
+edu/vassar/duck/DuckApp.class
